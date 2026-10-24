@@ -1,0 +1,6 @@
+# Versions are intentionally unresolved until installed and verified locally.
+fastapi
+uvicorn
+SQLAlchemy
+PyMySQL[rsa]
+python-dotenv
